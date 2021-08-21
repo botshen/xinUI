@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/botshen/xinUI/issues"
   },
-  "homepage": "https://github.com/botshen/xinUI#readme"
+  "homepage": "https://github.com/botshen/xinUI#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
