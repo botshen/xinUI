@@ -1,8 +1,8 @@
 {
-  "name": "xin-ui",
-  "version": "0.0.1",
+  "name": "shenxin-ui",
+  "version": "0.0.2",
   "description": "这是一个 UI 框架",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "dev-watch": "npx parcel watch test/* --no-cache",
     "dev-karma": "npx karma start",
